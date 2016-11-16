@@ -1,0 +1,249 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.8.3",
+    "uniqCompNum": 0,
+    "versionPublish": "3.8.3",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#fac51c"
+            },
+            ".mbr-section-title": {
+              "color": "#00a885"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "assets/images/17-2000x1233-89.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "INTRO ABOUT LEGEND",
+          "text": "BADMINTON",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a> "
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {},
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "assets/images/20141010-lcw-profile-pic3-2000x2000-64.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "LEE CHONG WEI",
+          "text": "<b>Nama penuh\tLee Chong Wei<br>Tarikh lahir\t21 Oktober 1982 </b>(<b>34 tahun)</b><br><b>Tempat lahir\tBagan Lalang, Selangor, Malaysia<br>Tinggi\t1.74 m (5 ka 81⁄2 in)<br>Berat\t68 kg (130 lb/9.4 st)<br>Perseorangan lelaki<br>Negara\tMalaysia Malaysia<br>Tangan<br>kegemaran\tKanan</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">NEXT</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-size": "19px"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {},
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "assets/images/2016-lin-dan-profile-2000x2000-46.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "LIN DAN",
+          "text": "Nama singkatan(s)\tSuper Dan<br>Nama penuh\t林丹<br>Tarikh lahir\t14 Oktober 1983 (33 tahun)<br>Tempat lahir\tLongyan, wilayah Fujian<br>Tinggi\t178 cm<br>Berat\t72kg<br>Perseorangan lelaki<br>Negara\t China<br>Tangan<br>kegemaran\tKiri<br>Ranking tertinggi\t1 (26 Februari, 2004)<br>Ranking terkini\t3 (2 Jun 2016)",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEXT</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {},
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-6",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "assets/images/taufik-hidayat-61-2000x2000-55.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "TAUFIK HIDAYAT",
+          "text": "Tarikh lahir\t10 Ogos 1981 (35 tahun)<br>Tempat lahir\tBandung, Jawa Barat, Indonesia<br>Tinggi\t1.76 m (5 ka 95⁄16 in)<br>Berat\t64<br>Perseorangan lelaki<br>Negara\t Indonesia<br>Tangan<br>kegemaran\tKanan<br>Jurulatih\tMulyo Handoyo<br>Ranking tertinggi\t1 (1998)<br>Ranking terkini\t7 (26 Jun 2008)",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">NEXT</a> ",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {},
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-7",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "assets/images/peter-gade-509974a-2000x1333-81.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "PETER GADE",
+          "text": "<b>Nama penuh\tPeter Gade Christensen<br>Tarikh lahir\t14 Disember 1976 (39 tahun)<br>Tempat lahir\tAalborg, Denmark<br>Tinggi\t1.83 m (6 ka 0 in)<br>Berat\t73<br>Perseorangan lelaki<br>Negara\tDenmark Denmark<br>Tangan<br>kegemaran\tKiri<br>Ranking tertinggi\t1 (28 Oktober 1997)<br>Ranking terkini\t9 (26 Jun 2008</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#41a85f"
+            },
+            ".mbr-section-lead": {
+              "color": "#b8312f"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
